@@ -1,0 +1,14 @@
+.container {
+    margin: 10px auto;
+    padding: 10px;
+    display: block;
+    width: 1200px;
+    justify-content: center;
+    align-items: center;
+      background-color: rgb(202, 235, 224);
+   
+  
+}
+.container > h2, p {
+    text-align: center;
+}
