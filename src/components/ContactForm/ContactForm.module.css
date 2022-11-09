@@ -1,11 +1,10 @@
-.searcForm {
+.searchForm {
     display: flex;
     flex-direction: column;
     margin-bottom: 15px;
     padding: 5px;
     background-color: rgb(169, 228, 236);
     border: 1px solid black;
-    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
 input{
